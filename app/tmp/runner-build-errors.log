@@ -1,3 +1,0 @@
-# github.com/algoflows/toolkit
-../toolkit/tools.go:34:2: renameFile declared but not used
-../toolkit/tools.go:38:1: missing return
