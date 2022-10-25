@@ -11,6 +11,4 @@ func main() {
 
 	s := tools.RandomString(10) // Call the RandomString method
 	fmt.Println("Random string:", s)
-
-	// now
 }
